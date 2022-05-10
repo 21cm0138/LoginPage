@@ -1,7 +1,7 @@
 # LoginPage
 Trying for GeometryReader
 
-２０２２/05/10
+2020/05/10
 
 ２１cm０１３８　ユ　ロウユ
 
