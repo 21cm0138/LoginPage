@@ -14,4 +14,4 @@ IPadやIPhoneを使う時に、画面サイズの理由で、画面がうまく�
 
 ２.IPhoneの画面は、横と立ってサイズが違うから、縦の時に、IPhoneのWidthによって、横の時に、Hightによって、画面を表示します。
 
-
+(GeometryReaderを使って画面表示するだけ、Buttonの仕組みは書いていなかった。)
