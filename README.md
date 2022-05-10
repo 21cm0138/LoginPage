@@ -1,6 +1,8 @@
 # LoginPage
 Trying for GeometryReader
+
 ２０２２/05/10
+
 ２１cm０１３８　ユ　ロウユ
 
 IPadやIPhoneを使う時に、画面サイズの理由で、画面がうまく表示されていないです。
